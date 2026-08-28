@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_boundary",
+        "layer": "boundary",
+        "name_en": "Jing-Zhang AI Innovation Belt Overall Design Boundary",
+        "name_zh": "百年京张 AI 创新带总体设计边界",
+        "source_type": "provisional",
+        "confidence": 0.7,
+        "geometry_role": "provisional_constraint",
+        "official_boundary": false,
+        "boundary_precision": "provisional_rough",
+        "area_sqm": 10743250.0,
+        "area_km2": 10.74325,
+        "note": "Participant-generated provisional boundary for design modeling only. Awaiting official organizer redline."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100.0,
+              0.0
+            ],
+            [
+              1600.0,
+              60.0
+            ],
+            [
+              3200.0,
+              0.0
+            ],
+            [
+              3900.0,
+              400.0
+            ],
+            [
+              4000.0,
+              1400.0
+            ],
+            [
+              3950.0,
+              2500.0
+            ],
+            [
+              4000.0,
+              2850.0
+            ],
+            [
+              2800.0,
+              2780.0
+            ],
+            [
+              1600.0,
+              2850.0
+            ],
+            [
+              400.0,
+              2780.0
+            ],
+            [
+              0.0,
+              2400.0
+            ],
+            [
+              50.0,
+              1200.0
+            ],
+            [
+              0.0,
+              300.0
+            ],
+            [
+              100.0,
+              0.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

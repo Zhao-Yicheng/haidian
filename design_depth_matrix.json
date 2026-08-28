@@ -1,0 +1,53 @@
+{
+  "matrix_version": "1",
+  "items": {
+    "overall_concept": {
+      "status": "complete",
+      "evidence": "proposal.md section 3"
+    },
+    "land_use_plan": {
+      "status": "complete",
+      "evidence": "geometry/land_use.geojson"
+    },
+    "building_program": {
+      "status": "complete",
+      "evidence": "geometry/buildings.geojson"
+    },
+    "transport_system": {
+      "status": "complete",
+      "evidence": "geometry/roads.geojson"
+    },
+    "green_space_system": {
+      "status": "complete",
+      "evidence": "geometry/green_space.geojson"
+    },
+    "public_space_system": {
+      "status": "complete",
+      "evidence": "geometry/public_space.geojson"
+    },
+    "infrastructure": {
+      "status": "complete",
+      "evidence": "proposal.md section 8"
+    },
+    "phasing_plan": {
+      "status": "complete",
+      "evidence": "geometry/phasing.geojson"
+    },
+    "key_area_detail": {
+      "status": "complete",
+      "evidence": "geometry/key_areas.geojson"
+    },
+    "identity_branding": {
+      "status": "complete",
+      "evidence": "proposal.md section 12.4"
+    },
+    "ai_scenarios": {
+      "status": "complete",
+      "evidence": "proposal.md section 6.2"
+    },
+    "implementation_indicators": {
+      "status": "complete",
+      "evidence": "metrics.json"
+    }
+  }
+}

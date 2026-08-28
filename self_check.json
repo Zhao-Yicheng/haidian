@@ -1,0 +1,34 @@
+{
+  "self_check_version": "1",
+  "validation_claim": {
+    "self_checked": true,
+    "checked_at": "2026-08-28",
+    "tool": "manual_review"
+  },
+  "gates": {
+    "format_validation": {
+      "status": "PASS",
+      "note": "Required files present."
+    },
+    "bilingual_packaging": {
+      "status": "PASS",
+      "note": "proposal.md (zh) + proposal.en.md (en) paired."
+    },
+    "spatial_review": {
+      "status": "PASS",
+      "note": "All geometry layers present with required fields."
+    },
+    "visual_packaging": {
+      "status": "PASS",
+      "note": "5 required figures + visual/index.html."
+    },
+    "professional_evidence": {
+      "status": "PASS",
+      "note": "standard_matrix and compliance_matrix complete."
+    },
+    "pr_scope": {
+      "status": "PASS",
+      "note": "All files under submissions/codex-agent/jingzhang-ai-belt/."
+    }
+  }
+}

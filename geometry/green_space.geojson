@@ -1,0 +1,1085 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_000",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 342081.7812820513,
+        "area_ha": 34.20817812820513
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              822.0,
+              28.88
+            ],
+            [
+              822.0,
+              377.12
+            ],
+            [
+              1250.0,
+              360.0
+            ],
+            [
+              1265.2884615384614,
+              678.0
+            ],
+            [
+              1546.1,
+              678.0
+            ],
+            [
+              1550.0,
+              600.0
+            ],
+            [
+              1578.0,
+              598.9333333333333
+            ],
+            [
+              1578.0,
+              59.12
+            ],
+            [
+              822.0,
+              28.88
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_001",
+        "layer": "green_space",
+        "green_type": "heritage_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 191519.52380952385,
+        "area_ha": 19.151952380952384
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1622.0,
+              59.175
+            ],
+            [
+              1622.0,
+              597.2571428571429
+            ],
+            [
+              1942.790120122796,
+              585.036566852465
+            ],
+            [
+              1978.0,
+              583.6952380952381
+            ],
+            [
+              1978.0,
+              45.825
+            ],
+            [
+              1924.8827977305507,
+              47.81689508510435
+            ],
+            [
+              1622.0,
+              59.175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_002",
+        "layer": "green_space",
+        "green_type": "heritage_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 427715.9809523809,
+        "area_ha": 42.77159809523809
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2022.0,
+              44.175
+            ],
+            [
+              2022.0,
+              582.0190476190476
+            ],
+            [
+              2102.675954702822,
+              578.945677916083
+            ],
+            [
+              2600.0,
+              560.0
+            ],
+            [
+              2605.6190476190477,
+              678.0
+            ],
+            [
+              2778.0,
+              678.0
+            ],
+            [
+              2778.0,
+              15.825
+            ],
+            [
+              2022.0,
+              44.175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_003",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 420007.78214285715,
+        "area_ha": 42.00077821428572
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2822.0,
+              14.175
+            ],
+            [
+              2822.0,
+              678.0
+            ],
+            [
+              3478.0,
+              678.0
+            ],
+            [
+              3478.0,
+              158.85714285714286
+            ],
+            [
+              3200.0,
+              0.0
+            ],
+            [
+              2822.0,
+              14.175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_004",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 149772.2,
+        "area_ha": 14.97722
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3522.0,
+              184.0
+            ],
+            [
+              3522.0,
+              678.0
+            ],
+            [
+              3927.8,
+              678.0
+            ],
+            [
+              3900.0,
+              400.0
+            ],
+            [
+              3522.0,
+              184.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_005",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 107937.90743034054,
+        "area_ha": 10.793790743034053
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3965.0,
+              1050.0
+            ],
+            [
+              3932.2,
+              722.0
+            ],
+            [
+              3522.0,
+              722.0
+            ],
+            [
+              3522.0,
+              759.6235294117647
+            ],
+            [
+              3800.0,
+              740.0
+            ],
+            [
+              3825.184210526316,
+              1378.0
+            ],
+            [
+              3997.8,
+              1378.0
+            ],
+            [
+              3965.0,
+              1050.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_006",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 293284.42848230206,
+        "area_ha": 29.328442848230207
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3950.0,
+              2500.0
+            ],
+            [
+              3967.181818181818,
+              2122.0
+            ],
+            [
+              3803.342857142857,
+              2122.0
+            ],
+            [
+              3800.0,
+              2200.0
+            ],
+            [
+              3522.0,
+              2213.0823529411764
+            ],
+            [
+              3522.0,
+              2822.116666666667
+            ],
+            [
+              4000.0,
+              2850.0
+            ],
+            [
+              3950.0,
+              2500.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_007",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 389014.71361950197,
+        "area_ha": 38.9014713619502
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3478.0,
+              2819.55
+            ],
+            [
+              3478.0,
+              2215.1529411764704
+            ],
+            [
+              2950.0,
+              2240.0
+            ],
+            [
+              2945.2162162162163,
+              2122.0
+            ],
+            [
+              2822.0,
+              2122.0
+            ],
+            [
+              2822.0,
+              2781.2833333333333
+            ],
+            [
+              2915.714285714286,
+              2786.75
+            ],
+            [
+              3478.0,
+              2819.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_008",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 356525.6652052439,
+        "area_ha": 35.65256652052439
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1578.0,
+              2848.7166666666667
+            ],
+            [
+              1578.0,
+              2338.9333333333334
+            ],
+            [
+              1550.0,
+              2340.0
+            ],
+            [
+              1540.723404255319,
+              2122.0
+            ],
+            [
+              1267.1818181818182,
+              2122.0
+            ],
+            [
+              1250.0,
+              2500.0
+            ],
+            [
+              822.0,
+              2519.0222222222224
+            ],
+            [
+              822.0,
+              2804.616666666667
+            ],
+            [
+              1578.0,
+              2848.7166666666667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_009",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 259816.45555555564,
+        "area_ha": 25.981645555555563
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              778.0,
+              2802.05
+            ],
+            [
+              778.0,
+              2520.9777777777776
+            ],
+            [
+              350.0,
+              2540.0
+            ],
+            [
+              331.6666666666667,
+              2122.0
+            ],
+            [
+              11.583333333333334,
+              2122.0
+            ],
+            [
+              0.0,
+              2400.0
+            ],
+            [
+              400.0,
+              2780.0
+            ],
+            [
+              778.0,
+              2802.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_010",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 189103.5087719298,
+        "area_ha": 18.91035087719298
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.416666666666666,
+              2078.0
+            ],
+            [
+              329.7368421052632,
+              2078.0
+            ],
+            [
+              302.27272727272725,
+              1451.8181818181818
+            ],
+            [
+              300.96491228070175,
+              1422.0
+            ],
+            [
+              40.75,
+              1422.0
+            ],
+            [
+              13.416666666666666,
+              2078.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_011",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 159526.86111111112,
+        "area_ha": 15.952686111111113
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.0,
+              1200.0
+            ],
+            [
+              42.583333333333336,
+              1378.0
+            ],
+            [
+              298.9,
+              1378.0
+            ],
+            [
+              282.5,
+              1050.0
+            ],
+            [
+              266.1,
+              722.0
+            ],
+            [
+              23.444444444444443,
+              722.0
+            ],
+            [
+              50.0,
+              1200.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_012",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 348893.74,
+        "area_ha": 34.889374
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.0,
+              678.0
+            ],
+            [
+              263.9,
+              678.0
+            ],
+            [
+              250.0,
+              400.0
+            ],
+            [
+              778.0,
+              378.88
+            ],
+            [
+              778.0,
+              27.12
+            ],
+            [
+              100.0,
+              0.0
+            ],
+            [
+              0.0,
+              300.0
+            ],
+            [
+              21.0,
+              678.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_013",
+        "layer": "green_space",
+        "green_type": "heritage_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 180797.14285714287,
+        "area_ha": 18.07971428571429
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1978.0,
+              2323.695238095238
+            ],
+            [
+              1940.115211121578,
+              2325.1384681477493
+            ],
+            [
+              1622.0,
+              2337.2571428571428
+            ],
+            [
+              1622.0,
+              2848.7166666666667
+            ],
+            [
+              1923.7934827767306,
+              2831.112046838024
+            ],
+            [
+              1935.5550512584614,
+              2830.4259553432566
+            ],
+            [
+              1947.3166197401922,
+              2829.7398638484888
+            ],
+            [
+              1978.0,
+              2827.95
+            ],
+            [
+              1978.0,
+              2323.695238095238
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_014",
+        "layer": "green_space",
+        "green_type": "heritage_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 405136.4063492062,
+        "area_ha": 40.51364063492062
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2600.0,
+              2300.0
+            ],
+            [
+              2100.39540099777,
+              2319.032556152466
+            ],
+            [
+              2022.0,
+              2322.019047619048
+            ],
+            [
+              2022.0,
+              2825.383333333333
+            ],
+            [
+              2778.0,
+              2781.2833333333333
+            ],
+            [
+              2778.0,
+              2122.0
+            ],
+            [
+              2607.911111111111,
+              2122.0
+            ],
+            [
+              2600.0,
+              2300.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_015",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 108362.65816814764,
+        "area_ha": 10.836265816814764
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3805.2285714285713,
+              2078.0
+            ],
+            [
+              3969.181818181818,
+              2078.0
+            ],
+            [
+              3999.0,
+              1422.0
+            ],
+            [
+              3826.9210526315787,
+              1422.0
+            ],
+            [
+              3830.0,
+              1500.0
+            ],
+            [
+              3805.2285714285713,
+              2078.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_016",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 160278.4615384615,
+        "area_ha": 16.02784615384615
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1543.9,
+              722.0
+            ],
+            [
+              1267.4038461538462,
+              722.0
+            ],
+            [
+              1277.9166666666667,
+              940.6666666666666
+            ],
+            [
+              1298.9423076923076,
+              1378.0
+            ],
+            [
+              1511.1,
+              1378.0
+            ],
+            [
+              1527.5,
+              1050.0
+            ],
+            [
+              1543.9,
+              722.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_017",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 157966.5764023211,
+        "area_ha": 15.79665764023211
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1299.0,
+              1422.0
+            ],
+            [
+              1269.1818181818182,
+              2078.0
+            ],
+            [
+              1538.8510638297873,
+              2078.0
+            ],
+            [
+              1510.936170212766,
+              1422.0
+            ],
+            [
+              1299.0,
+              1422.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_018",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 101461.33333333331,
+        "area_ha": 10.146133333333331
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2607.714285714286,
+              722.0
+            ],
+            [
+              2614.923076923077,
+              873.3846153846154
+            ],
+            [
+              2638.9523809523807,
+              1378.0
+            ],
+            [
+              2778.0,
+              1378.0
+            ],
+            [
+              2778.0,
+              722.0
+            ],
+            [
+              2607.714285714286,
+              722.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_019",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 75388.44444444437,
+        "area_ha": 7.538844444444437
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2650.0,
+              1620.0
+            ],
+            [
+              2650.0,
+              1422.0
+            ],
+            [
+              2639.0222222222224,
+              1422.0
+            ],
+            [
+              2609.866666666667,
+              2078.0
+            ],
+            [
+              2778.0,
+              2078.0
+            ],
+            [
+              2778.0,
+              1620.0
+            ],
+            [
+              2650.0,
+              1620.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_020",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 59706.34440154441,
+        "area_ha": 5.970634440154441
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2822.0,
+              1620.0
+            ],
+            [
+              2822.0,
+              2078.0
+            ],
+            [
+              2943.4324324324325,
+              2078.0
+            ],
+            [
+              2920.0,
+              1500.0
+            ],
+            [
+              2923.342857142857,
+              1422.0
+            ],
+            [
+              2880.0,
+              1422.0
+            ],
+            [
+              2880.0,
+              1620.0
+            ],
+            [
+              2822.0,
+              1620.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "green_021",
+        "layer": "green_space",
+        "green_type": "neighborhood_park",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "area_sqm": 108153.62184873945,
+        "area_ha": 10.815362184873946
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2822.0,
+              722.0
+            ],
+            [
+              2822.0,
+              1378.0
+            ],
+            [
+              2925.2285714285713,
+              1378.0
+            ],
+            [
+              2950.0,
+              800.0
+            ],
+            [
+              3478.0,
+              762.7294117647059
+            ],
+            [
+              3478.0,
+              722.0
+            ],
+            [
+              2822.0,
+              722.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

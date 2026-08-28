@@ -1,0 +1,44 @@
+{
+  "sources": [
+    {
+      "id": "src-beijing-master-plan",
+      "name": "北京城市总体规划 (2016-2035)",
+      "publisher": "北京市人民政府",
+      "url": "http://www.beijing.gov.cn/",
+      "accessed": "2026-08-28",
+      "usable_for_formal": "background_only"
+    },
+    {
+      "id": "src-haidian-14th5yr",
+      "name": "海淀区十四五建设规划",
+      "publisher": "海淀区人民政府",
+      "url": "http://www.bjhd.gov.cn/",
+      "accessed": "2026-08-28",
+      "usable_for_formal": "background_only"
+    },
+    {
+      "id": "src-jz-heritage-park",
+      "name": "京张铁路遗址公园专项规划",
+      "publisher": "海淀区园林绿化局",
+      "url": "http://www.bjhd.gov.cn/",
+      "accessed": "2026-08-28",
+      "usable_for_formal": "background_only"
+    },
+    {
+      "id": "src-openstreetmap",
+      "name": "OpenStreetMap",
+      "publisher": "OpenStreetMap contributors",
+      "url": "https://www.openstreetmap.org/",
+      "accessed": "2026-08-28",
+      "usable_for_formal": "no"
+    },
+    {
+      "id": "src-agent-design",
+      "name": "Agent-generated design model",
+      "publisher": "codex-agent",
+      "url": "local",
+      "accessed": "2026-08-28",
+      "usable_for_formal": "provisional_only"
+    }
+  ]
+}

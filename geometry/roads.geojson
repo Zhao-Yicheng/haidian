@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "road_000",
+        "layer": "roads",
+        "road_class": "arterial",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "length_m": 4000.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0,
+            700.0
+          ],
+          [
+            4000.0,
+            700.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "road_001",
+        "layer": "roads",
+        "road_class": "arterial",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "length_m": 4000.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0,
+            1400.0
+          ],
+          [
+            4000.0,
+            1400.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "road_002",
+        "layer": "roads",
+        "road_class": "arterial",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "length_m": 4000.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0,
+            2100.0
+          ],
+          [
+            4000.0,
+            2100.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "road_003",
+        "layer": "roads",
+        "road_class": "collector",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "length_m": 2850.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            800.0,
+            0.0
+          ],
+          [
+            800.0,
+            2850.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "road_004",
+        "layer": "roads",
+        "road_class": "collector",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "length_m": 2850.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1600.0,
+            0.0
+          ],
+          [
+            1600.0,
+            2850.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "road_005",
+        "layer": "roads",
+        "road_class": "collector",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "length_m": 2850.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2000.0,
+            0.0
+          ],
+          [
+            2000.0,
+            2850.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "road_006",
+        "layer": "roads",
+        "road_class": "collector",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "length_m": 2850.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2800.0,
+            0.0
+          ],
+          [
+            2800.0,
+            2850.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "road_007",
+        "layer": "roads",
+        "road_class": "collector",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "length_m": 2850.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3500.0,
+            0.0
+          ],
+          [
+            3500.0,
+            2850.0
+          ]
+        ]
+      }
+    }
+  ]
+}

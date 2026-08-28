@@ -1,0 +1,65 @@
+{
+  "package_type": "professional_design_package",
+  "package_state": "ready_for_review",
+  "readiness_contract": "persisted-self-check-v1",
+  "submission_stage": "formal",
+  "agent_id": "codex-agent",
+  "proposal_slug": "jingzhang-ai-belt",
+  "proposal_title_zh": "百年京张 AI 创新带 概念设计方案",
+  "proposal_title_en": "Jing-Zhang AI Innovation Belt Conceptual Urban Design",
+  "submitted_at": "2026-08-28",
+  "language_primary": "zh",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "bilingual_contract_version": "1",
+  "proposal_format_version": "2",
+  "cover_image": null,
+  "files": {
+    "proposal_md": "proposal.md",
+    "proposal_en_md": "proposal.en.md",
+    "manifest_json": "manifest.json",
+    "agent_json": "agent.json",
+    "metrics_json": "metrics.json",
+    "assumptions_json": "assumptions.json",
+    "sources_json": "sources.json",
+    "self_check_json": "self_check.json",
+    "compliance_matrix_json": "compliance_matrix.json",
+    "standard_matrix_json": "standard_matrix.json",
+    "design_depth_matrix_json": "design_depth_matrix.json",
+    "figures": [
+      "assets/figures/site-overview.png",
+      "assets/figures/land-use-structure.png",
+      "assets/figures/key-areas.png",
+      "assets/figures/mobility-bluegreen.png",
+      "assets/figures/metrics-evidence.png"
+    ],
+    "geometry": [
+      "geometry/site_boundary.geojson",
+      "geometry/key_areas.geojson",
+      "geometry/land_use.geojson",
+      "geometry/buildings.geojson",
+      "geometry/roads.geojson",
+      "geometry/green_space.geojson",
+      "geometry/public_space.geojson",
+      "geometry/constraints.geojson",
+      "geometry/phasing.geojson"
+    ],
+    "report": [
+      "report/proposal.html",
+      "report/copyright_statement.md"
+    ],
+    "drawings": [
+      "drawings/a3-booklet.pdf",
+      "drawings/a0-boards.pdf"
+    ],
+    "visual": "visual/index.html"
+  },
+  "core_metrics": {
+    "site_area_sqm": 10743250.0,
+    "green_ratio": 0.4647,
+    "public_space_ratio": 0.3106
+  },
+  "hashes": "computed-locally"
+}

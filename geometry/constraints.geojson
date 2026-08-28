@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "heritage_buffer",
+        "layer": "constraints",
+        "constraint_type": "heritage_buffer",
+        "source_type": "design_model",
+        "confidence": 0.8,
+        "geometry_role": "design_layer",
+        "buffer_m": 200
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1804.9660455123944,
+              52.31377329328521
+            ],
+            [
+              1849.892502038856,
+              1400.1074690871353
+            ],
+            [
+              1803.5047142135743,
+              2838.128891670875
+            ],
+            [
+              2204.467276090762,
+              2814.739408894706
+            ],
+            [
+              2249.89602286794,
+              1406.4482588021915
+            ],
+            [
+              2249.888981395831,
+              1393.3370339534722
+            ],
+            [
+              2204.688552906249,
+              37.32417926601567
+            ],
+            [
+              1804.9660455123944,
+              52.31377329328521
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "noise_zone",
+        "layer": "constraints",
+        "constraint_type": "noise",
+        "source_type": "design_model",
+        "confidence": 0.7,
+        "geometry_role": "design_layer",
+        "buffer_m": 150
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3970.4545454545455,
+              2050.0
+            ],
+            [
+              14.583333333333334,
+              2050.0
+            ],
+            [
+              2.0833333333333335,
+              2350.0
+            ],
+            [
+              3956.818181818182,
+              2350.0
+            ],
+            [
+              3970.4545454545455,
+              2050.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

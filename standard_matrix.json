@@ -1,0 +1,47 @@
+{
+  "matrix_version": "1",
+  "standards": [
+    {
+      "id": "std-gb50137",
+      "name": "城市用地分类与规划建设用地标准 GB 50137",
+      "status": "addressed",
+      "evidence": "proposal.md section 7"
+    },
+    {
+      "id": "std-gb50282",
+      "name": "城市给水工程规划规范 GB 50282",
+      "status": "addressed",
+      "evidence": "proposal.md section 8"
+    },
+    {
+      "id": "std-gb51288",
+      "name": "城市电力规划规范 GB 51288",
+      "status": "addressed",
+      "evidence": "proposal.md section 8"
+    },
+    {
+      "id": "std-gb50220",
+      "name": "城市道路交通规划设计规范 GB 50220",
+      "status": "addressed",
+      "evidence": "proposal.md section 8"
+    },
+    {
+      "id": "std-gb50293",
+      "name": "城市热力网设计规范 GB 50293",
+      "status": "addressed",
+      "evidence": "proposal.md section 8"
+    },
+    {
+      "id": "std-gb50180",
+      "name": "城市居住区规划设计标准 GB 50180",
+      "status": "addressed",
+      "evidence": "proposal.md section 4.2"
+    },
+    {
+      "id": "std-gbt51371",
+      "name": "城市社区应急避难场所设计规范",
+      "status": "addressed",
+      "evidence": "proposal.md section 10"
+    }
+  ]
+}

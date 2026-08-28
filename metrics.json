@@ -1,0 +1,215 @@
+{
+  "site_area_sqm": {
+    "status": "known",
+    "value": 10743250.0,
+    "unit": "sqm",
+    "source_files": [
+      "geometry/site_boundary.geojson"
+    ],
+    "formula": "area(site_boundary)",
+    "confidence": 0.7,
+    "assumptions": [
+      "Provisional boundary"
+    ]
+  },
+  "site_area_km2": {
+    "status": "known",
+    "value": 10.7432,
+    "unit": "km2",
+    "source_files": [
+      "geometry/site_boundary.geojson"
+    ],
+    "formula": "site_area_sqm/1e6",
+    "confidence": 0.7,
+    "assumptions": []
+  },
+  "green_area_sqm": {
+    "status": "known",
+    "value": 4992451.54,
+    "unit": "sqm",
+    "source_files": [
+      "geometry/green_space.geojson"
+    ],
+    "formula": "sum(area(green_space))",
+    "confidence": 0.8,
+    "assumptions": []
+  },
+  "green_ratio": {
+    "status": "known",
+    "value": 0.4647,
+    "unit": "ratio",
+    "source_files": [
+      "geometry/green_space.geojson",
+      "geometry/site_boundary.geojson"
+    ],
+    "formula": "green_area_sqm/site_area_sqm",
+    "confidence": 0.75,
+    "assumptions": [
+      "Provisional boundary"
+    ]
+  },
+  "public_space_area_sqm": {
+    "status": "known",
+    "value": 3336727.4,
+    "unit": "sqm",
+    "source_files": [
+      "geometry/public_space.geojson",
+      "geometry/green_space.geojson"
+    ],
+    "formula": "plaza_area + 0.6*green_area",
+    "confidence": 0.7,
+    "assumptions": [
+      "60% green accessible"
+    ]
+  },
+  "public_space_ratio": {
+    "status": "known",
+    "value": 0.3106,
+    "unit": "ratio",
+    "source_files": [
+      "geometry/public_space.geojson",
+      "geometry/green_space.geojson"
+    ],
+    "formula": "public_space_area_sqm/site_area_sqm",
+    "confidence": 0.7,
+    "assumptions": []
+  },
+  "building_footprint_sqm": {
+    "status": "known",
+    "value": 2607072.0,
+    "unit": "sqm",
+    "source_files": [
+      "geometry/buildings.geojson"
+    ],
+    "formula": "sum(footprint_sqm)",
+    "confidence": 0.7,
+    "assumptions": []
+  },
+  "road_area_sqm": {
+    "status": "known",
+    "value": 1096604.25,
+    "unit": "sqm",
+    "source_files": [
+      "geometry/roads.geojson"
+    ],
+    "formula": "sum(length*44)",
+    "confidence": 0.7,
+    "assumptions": [
+      "44m effective width"
+    ]
+  },
+  "water_area_sqm": {
+    "status": "known",
+    "value": 54800.0,
+    "unit": "sqm",
+    "source_files": [
+      "geometry/land_use.geojson"
+    ],
+    "formula": "sum(water polygons)",
+    "confidence": 0.8,
+    "assumptions": []
+  },
+  "floor_area_ratio": {
+    "status": "unknown",
+    "value": null,
+    "unit": "ratio",
+    "source_files": [],
+    "formula": "total_floor_area/site_area",
+    "confidence": 0.0,
+    "assumptions": [
+      "Awaiting official control plan; concept stage only"
+    ]
+  },
+  "building_height_m": {
+    "status": "unknown",
+    "value": null,
+    "unit": "m",
+    "source_files": [],
+    "formula": "N/A",
+    "confidence": 0.0,
+    "assumptions": [
+      "Awaiting official height control; design concept uses 18-48m range"
+    ]
+  },
+  "population_capacity": {
+    "status": "unknown",
+    "value": null,
+    "unit": "persons",
+    "source_files": [
+      "geometry/land_use.geojson"
+    ],
+    "formula": "residential_area*0.01",
+    "confidence": 0.3,
+    "assumptions": [
+      "Concept estimate only; needs demographic study"
+    ]
+  },
+  "job_capacity": {
+    "status": "known",
+    "value": 1042828,
+    "unit": "jobs",
+    "source_files": [
+      "geometry/buildings.geojson"
+    ],
+    "formula": "footprint*4_floors/10sqm_per_job",
+    "confidence": 0.5,
+    "assumptions": [
+      "Average 4 stories, 1 job/10sqm"
+    ]
+  },
+  "a1_area_ha": {
+    "status": "known",
+    "value": 192.1,
+    "unit": "ha",
+    "source_files": [
+      "geometry/key_areas.geojson"
+    ],
+    "formula": "area(A1)",
+    "confidence": 0.75,
+    "assumptions": []
+  },
+  "a2_area_ha": {
+    "status": "known",
+    "value": 104.3,
+    "unit": "ha",
+    "source_files": [
+      "geometry/key_areas.geojson"
+    ],
+    "formula": "area(A2)",
+    "confidence": 0.75,
+    "assumptions": []
+  },
+  "a3_area_ha": {
+    "status": "known",
+    "value": 72.0,
+    "unit": "ha",
+    "source_files": [
+      "geometry/key_areas.geojson"
+    ],
+    "formula": "area(A3)",
+    "confidence": 0.75,
+    "assumptions": []
+  },
+  "total_buildings": {
+    "status": "known",
+    "value": 862,
+    "unit": "count",
+    "source_files": [
+      "geometry/buildings.geojson"
+    ],
+    "formula": "count(features)",
+    "confidence": 0.9,
+    "assumptions": []
+  },
+  "road_length_m": {
+    "status": "known",
+    "value": 26250.0,
+    "unit": "m",
+    "source_files": [
+      "geometry/roads.geojson"
+    ],
+    "formula": "sum(length)",
+    "confidence": 0.85,
+    "assumptions": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "boundary_is_provisional": {
+    "value": true,
+    "note": "Site boundary is participant-generated provisional geometry for design modeling only. Awaiting official organizer redline."
+  },
+  "green_accessibility_rate": {
+    "value": 0.6,
+    "note": "60% of green space is assumed publicly accessible."
+  },
+  "avg_job_density_sqm": {
+    "value": 10,
+    "note": "1 job per 10 sqm of floor area, concept stage estimate."
+  },
+  "avg_floors": {
+    "value": 4,
+    "note": "Average building floors for job capacity estimation."
+  },
+  "road_effective_width_m": {
+    "value": 44,
+    "note": "Effective road area width."
+  }
+}

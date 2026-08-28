@@ -1,0 +1,164 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "key_area_zhongzhiyuan",
+        "layer": "key_areas",
+        "code": "A1",
+        "name_en": "Zhongzhiyuan AI Acceleration Area",
+        "name_zh": "众智园 AI 自主创新加速区",
+        "source_type": "provisional",
+        "confidence": 0.75,
+        "geometry_role": "provisional_constraint",
+        "official_boundary": false,
+        "boundary_precision": "provisional_rough",
+        "target_area_ha": 192.1,
+        "area_sqm": 1921000.0,
+        "area_ha": 192.1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              295.079784268466,
+              1404.2646773428114
+            ],
+            [
+              379.06059459429594,
+              2454.0248064156854
+            ],
+            [
+              1260.85910301551,
+              2412.0344012527703
+            ],
+            [
+              1302.849508178425,
+              1404.2646773428114
+            ],
+            [
+              1260.85910301551,
+              446.8834396283504
+            ],
+            [
+              253.08937910555107,
+              480.47576375868243
+            ],
+            [
+              295.079784268466,
+              1404.2646773428114
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "key_area_ai_origin",
+        "layer": "key_areas",
+        "code": "A2",
+        "name_en": "Beijing AI Origin Community",
+        "name_zh": "北京 AI 原点社区",
+        "source_type": "provisional",
+        "confidence": 0.75,
+        "geometry_role": "provisional_constraint",
+        "official_boundary": false,
+        "boundary_precision": "provisional_rough",
+        "target_area_ha": 104.3,
+        "area_sqm": 1042999.9999999995,
+        "area_ha": 104.29999999999995
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1678.5845821049725,
+              1416.8932976761234
+            ],
+            [
+              1704.9230457234116,
+              2101.6933517555435
+            ],
+            [
+              2495.0769542765884,
+              2075.3548881371044
+            ],
+            [
+              2521.4154178950275,
+              1416.8932976761234
+            ],
+            [
+              2495.0769542765884,
+              797.9394026428016
+            ],
+            [
+              1704.9230457234116,
+              824.2778662612409
+            ],
+            [
+              1678.5845821049725,
+              1416.8932976761234
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "key_area_dazhongsi",
+        "layer": "key_areas",
+        "code": "A3",
+        "name_en": "Dazhongsi AI Industry Cluster",
+        "name_zh": "大钟寺 AI 产业聚集区",
+        "source_type": "provisional",
+        "confidence": 0.75,
+        "geometry_role": "provisional_constraint",
+        "official_boundary": false,
+        "boundary_precision": "provisional_rough",
+        "target_area_ha": 72.0,
+        "area_sqm": 719999.9999999999,
+        "area_ha": 71.99999999999999
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3039.716567284827,
+              1496.6453114814972
+            ],
+            [
+              3059.6747236601323,
+              2055.4736899900568
+            ],
+            [
+              3691.683008878146,
+              2028.8628148229823
+            ],
+            [
+              3711.641165253452,
+              1496.6453114814972
+            ],
+            [
+              3691.683008878146,
+              911.2060578058631
+            ],
+            [
+              3059.6747236601323,
+              964.4278081400117
+            ],
+            [
+              3039.716567284827,
+              1496.6453114814972
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

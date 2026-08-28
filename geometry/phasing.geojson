@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "phase1",
+        "layer": "phasing",
+        "phase": "phase1",
+        "delivery_window": "2026-2027",
+        "source_type": "design_model",
+        "confidence": 0.7,
+        "geometry_role": "design_layer",
+        "area_sqm": 5415833.333333333
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1600.0,
+              60.0
+            ],
+            [
+              100.0,
+              0.0
+            ],
+            [
+              0.0,
+              300.0
+            ],
+            [
+              50.0,
+              1200.0
+            ],
+            [
+              0.0,
+              2400.0
+            ],
+            [
+              400.0,
+              2780.0
+            ],
+            [
+              1600.0,
+              2850.0
+            ],
+            [
+              2000.0,
+              2826.6666666666665
+            ],
+            [
+              2000.0,
+              45.0
+            ],
+            [
+              1600.0,
+              60.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "phase2",
+        "layer": "phasing",
+        "phase": "phase2",
+        "delivery_window": "2028-2029",
+        "source_type": "design_model",
+        "confidence": 0.7,
+        "geometry_role": "design_layer",
+        "area_sqm": 2543000.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2000.0,
+              45.0
+            ],
+            [
+              2000.0,
+              1400.0
+            ],
+            [
+              4000.0,
+              1400.0
+            ],
+            [
+              3900.0,
+              400.0
+            ],
+            [
+              3200.0,
+              0.0
+            ],
+            [
+              2000.0,
+              45.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "phase3",
+        "layer": "phasing",
+        "phase": "phase3",
+        "delivery_window": "2030-2031",
+        "source_type": "design_model",
+        "confidence": 0.7,
+        "geometry_role": "design_layer",
+        "area_sqm": 2784416.666666667
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3950.0,
+              2500.0
+            ],
+            [
+              4000.0,
+              1400.0
+            ],
+            [
+              2000.0,
+              1400.0
+            ],
+            [
+              2000.0,
+              2826.6666666666665
+            ],
+            [
+              2800.0,
+              2780.0
+            ],
+            [
+              4000.0,
+              2850.0
+            ],
+            [
+              3950.0,
+              2500.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

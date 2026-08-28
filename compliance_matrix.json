@@ -1,0 +1,116 @@
+{
+  "matrix_version": "1",
+  "announcement_tasks": {
+    "1.3_vision": {
+      "covered": true,
+      "evidence": "proposal.md section 3.1",
+      "source_ids": [
+        "src-beijing-master-plan",
+        "src-haidian-14th5yr"
+      ]
+    },
+    "1.4_ecosystem": {
+      "covered": true,
+      "evidence": "proposal.md section 3.2",
+      "source_ids": [
+        "src-haidian-14th5yr"
+      ]
+    },
+    "1.5_scenarios": {
+      "covered": true,
+      "evidence": "proposal.md section 6.2",
+      "source_ids": [
+        "src-agent-design"
+      ]
+    }
+  },
+  "agent_taskbook": {
+    "agent.1_naming_identity": {
+      "covered": true,
+      "evidence": "proposal.md section 12.4",
+      "source_ids": [
+        "src-agent-design"
+      ]
+    },
+    "agent.2_ecosystem_cases": {
+      "covered": true,
+      "evidence": "proposal.md section 3.3",
+      "source_ids": [
+        "src-beijing-master-plan"
+      ]
+    },
+    "agent.3_scenario_cards": {
+      "covered": true,
+      "evidence": "proposal.md section 6.2",
+      "source_ids": [
+        "src-agent-design"
+      ]
+    },
+    "agent.4_test_scenarios": {
+      "covered": true,
+      "evidence": "proposal.md section 6.3",
+      "source_ids": [
+        "src-agent-design"
+      ]
+    },
+    "agent.5_user_personas": {
+      "covered": true,
+      "evidence": "proposal.md section 6.1",
+      "source_ids": [
+        "src-agent-design"
+      ]
+    },
+    "agent.6_pilgrimage_landmarks": {
+      "covered": true,
+      "evidence": "proposal.md section 12.4",
+      "source_ids": [
+        "src-jz-heritage-park",
+        "src-agent-design"
+      ]
+    },
+    "agent.7_cultural_narrative": {
+      "covered": true,
+      "evidence": "proposal.md section 12.5",
+      "source_ids": [
+        "src-jz-heritage-park"
+      ]
+    },
+    "agent.8_long_term_ops": {
+      "covered": true,
+      "evidence": "proposal.md section 12.5",
+      "source_ids": [
+        "src-agent-design"
+      ]
+    }
+  },
+  "call_directions": {
+    "dir1_vision": {
+      "covered": true,
+      "evidence": "proposal.md section 3.1"
+    },
+    "dir2_ecosystem": {
+      "covered": true,
+      "evidence": "proposal.md section 3.2"
+    },
+    "dir3_urban_form": {
+      "covered": true,
+      "evidence": "proposal.md section 6.2"
+    },
+    "dir4_transport_services": {
+      "covered": true,
+      "evidence": "proposal.md section 8"
+    },
+    "dir5_public_space": {
+      "covered": true,
+      "evidence": "proposal.md section 9"
+    },
+    "dir6_culture_identity": {
+      "covered": true,
+      "evidence": "proposal.md section 9"
+    },
+    "dir7_ai_scenarios": {
+      "covered": true,
+      "evidence": "proposal.md section 6.2"
+    }
+  }
+}
